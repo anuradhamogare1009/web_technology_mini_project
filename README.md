@@ -24,6 +24,7 @@ Instead of using a database, the project stores data in a JSON file, making it s
 3.JavaScript → for logic (frontend + backend)
 
 
+
 ⚙️ Supporting Technology
 
 1.Node.js → runs backend

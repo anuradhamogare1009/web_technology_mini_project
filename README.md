@@ -7,6 +7,23 @@ Instead of using a database, the project stores data in a JSON file, making it s
 🎯 Key Features
 
 Add new notes
+
 View all notes
+
 Delete notes
+
 Simple and user-friendly interface
+
+💻 Languages Used in Project
+
+HTML → for webpage structure
+
+CSS → for design and styling
+
+JavaScript → for logic (frontend + backend)
+
+⚙️ Supporting Technology
+
+Node.js → runs backend
+
+Express.js → handles APIs

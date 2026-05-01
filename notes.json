@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1777549567490,
+    "title": "Shopping",
+    "content": "Groceries for the week:\n- Milk (2 liters)\n- Bread (brown)\n- Eggs (1 dozen)\n- Rice (5 kg)\n- Cooking oil\n- Vegetables (tomato, onion, potato)"
+  },
+  {
+    "id": 1777549632360,
+    "title": "Study",
+    "content": "Study Plan for Today:\n- DBMS: Normalization (1NF, 2NF, 3NF)\n- Web Tech: HTML forms and validation\n- Practice 5 SQL queries\n- Revise previous notes"
+  },
+  {
+    "id": 1777551947010,
+    "title": "shopping",
+    "content": "buy butter\n"
+  }
+]
